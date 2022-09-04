@@ -1,0 +1,16 @@
+{
+    
+    "Base_HR":83,
+    "Base_EDA":2.8,
+    "HR":94,
+    "EDA":5,
+    "Neutral":0.66,
+    "Happy":0.07,
+    "Sad":0.2,
+    "Angry":0.01,
+    "Surprised":0.015,
+    "Scared":0.06,
+    "Disgusted":0.01,
+    "EDA_difference":2.2,
+    "HR_difference":11
+}
