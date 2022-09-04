@@ -10,4 +10,4 @@ Content
 7. Evaluation parameters
 8. Save model
 9. Load model
-10. Flask API (Run in pycharm)
+10. Using Flask API to deploy model (Run in pycharm)
